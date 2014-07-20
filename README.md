@@ -1,4 +1,4 @@
 coursera
 ========
 
-Tests during data mining class on coursera
+Les tests d'un ingénieur qui aurait du mieux travailler durant ses études ... 
